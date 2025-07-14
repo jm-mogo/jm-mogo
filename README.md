@@ -1,6 +1,6 @@
 # Hi there, I'm Jose Mogollon 👋
 
-## Full-Stack Web Developer from Caracas, Venezuela 🇻🇪
+## Web Developer from Caracas, Venezuela 🇻🇪
 
 I'm a self-taught programmer passionate about bringing ideas to life through code. With a background in music and a love for creative problem-solving, I enjoy building robust and user-friendly web applications.
 
