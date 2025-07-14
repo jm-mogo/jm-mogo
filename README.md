@@ -71,18 +71,17 @@ I'm a self-taught programmer passionate about bringing ideas to life through cod
 
 | Project                                     | Description                                                                                             | Tech Stack                        | Link                                               |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------- | -------------------------------------------------- |
-| **Raffle Management Platform**              | A robust platform for managing fundraising raffles, simplifying ticket sales and seller management.       | Laravel, Livewire, Tailwind CSS   | [Live Demo][Raffle-Link]                           |
-| **Online Enrollment System**                | A streamlined process for students to submit documents and information for a vacation program.          | Laravel, Vue.js                   | [Live Demo][Enrollment-Link]                       |
-| **Youth Group Management App**              | An application to record key information, track meeting attendance, and manage team points for a youth group. | React, Express                    | [Video Demo][Youth-Group-Link]                     |
-| **Cafeteria Student Management System**     | An algorithm to automatically assign students to tables based on pre-defined criteria and preferences.  | React, Firebase                   | [Video Demo][Cafeteria-Link]                       |
+| **Raffle Management Platform**              | A robust platform for managing fundraising raffles, simplifying ticket sales and seller management.       | Laravel, Livewire, Tailwind CSS   | [View on Portfolio][Portfolio-Link]                |
+| **Online Enrollment System**                | A streamlined process for students to submit documents and information for a vacation program.          | Laravel, Vue.js                   | [View on Portfolio][Portfolio-Link]                |
+| **Youth Group Management App**              | An application to record key information, track meeting attendance, and manage team points for a youth group. | React, Express                    | [View on Portfolio][Portfolio-Link]                |
+| **Cafeteria Student Management System**     | An algorithm to automatically assign students to tables based on pre-defined criteria and preferences.  | React, Firebase                   | [View on Portfolio][Portfolio-Link]                |
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jm-mogo&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Jose's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jm-mogo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jm-mogo&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -96,12 +95,7 @@ I'm a self-taught programmer passionate about bringing ideas to life through cod
   <a href="mailto:josemimore0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- Add your LinkedIn badge here if you have one! -->
 </p>
 
-
-<!-- **REFERENCE LINKS FOR YOUR PROJECTS (This part won't be visible in the README)** -->
-[Raffle-Link]: [your-page-link-here]
-[Enrollment-Link]: [your-page-link-here]
-[Youth-Group-Link]: [your-video-link-here]
-[Cafeteria-Link]: [your-video-link-here]
+<!-- REFERENCE LINKS (This part won't be visible in the README) -->
+[Portfolio-Link]: https://jm-mogo.github.io/portfolio/
