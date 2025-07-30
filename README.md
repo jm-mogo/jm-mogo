@@ -4,8 +4,8 @@
 
 I'm a self-taught programmer passionate about bringing ideas to life through code. With a background in music and a love for creative problem-solving, I enjoy building robust and user-friendly web applications.
 
-- 🔭 I’m currently focused on deepening my expertise in **Laravel** and **Node.js with Express**.
-- 🌱 I’m always learning and exploring new ways to build efficient and scalable software.
+- 🔭 I’m currently focused on deepening my expertise in **Laravel**
+- 🌱 I’m always learning and exploring new ways to build efficient and scalable software
 - 📫 How to reach me: **josemimore0@gmail.com**
 
 ---
